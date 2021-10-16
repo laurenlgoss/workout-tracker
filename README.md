@@ -30,6 +30,8 @@ The dashboard allows the user to view their last workout's statistics such as th
 
 The statistics page shows the user a graph of exercise statistics from their last 7 workouts. The graph on the left allows the user to see how their workout duration has changed. The graph on the right shows the user how many pounds they lifted during each workout session.
 
+The deployed application can be found [here](https://cryptic-bastion-94004.herokuapp.com/).
+
 ## Tests
 
 ### Dashboard
